@@ -3,3 +3,5 @@ Hola mundo!!!.
 Este es mi primer archivo plano versionado con git.
 
 Tengo 19 años y estoy comenzando mi carrera como emprendedor en el ambito de la tecnología.
+
+hablaremos de mi vida
