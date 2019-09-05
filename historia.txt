@@ -2,6 +2,8 @@ Hola mundo!!!.
 
 Este es mi primer archivo plano versionado con git.
 
-Tengo 19 años y estoy comenzando mi carrera como emprendedor en el ambito de la tecnología.
+Tengo 20 años y estoy comenzando mi carrera como emprendedor en el ambito de la tecnología.
 
 hablaremos de mi vida y mi carrera como profesional.
+
+Soy un desarrollador de sistema de informacion optimista y dedicado a mejorar todos los días.
