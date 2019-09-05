@@ -1,5 +1,19 @@
-h1, p{
-	color: deeppink;
+body, html{
+	color: #333;
 	font-family: "Arial";
 	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	border: 1px solid gray;
+	width: 70%;
+	margin: 0 auto;
+	text-align: left;
+	padding: 10px;
+}
+
+.container h1{
+
 }
