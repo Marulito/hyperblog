@@ -1,6 +1,4 @@
-body, html{
-	color: red;
-	font-family: "Arial";
+body, html{	font-family: "Arial";
 	text-align: center;
 	margin: 0px;
 	padding: 0px;
@@ -36,3 +34,12 @@ body, html{
 	font-size: 1rem;
 }
 
+.footer{
+	background: gray;
+	text-align: center;
+	padding: .8rem;
+}
+
+.footer h1{
+	margin: 0;
+}
