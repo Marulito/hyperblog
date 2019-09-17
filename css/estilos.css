@@ -22,8 +22,9 @@ body, html{	font-family: "Arial";
 }
 /*Header (cabecera)*/
 
-.logo{
-	height: 40px;
+.cabecera .logo{
+	height: 35px;
+	vertical-align: middle;
 }
 
 .container{
