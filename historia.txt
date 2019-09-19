@@ -13,3 +13,5 @@ Estoy estudiando musica en la U de A.
 vivo en la loma que es una vereda de san cristobal.
 
 Se agrego un nuevo miembro como colaborador al proyecto.
+
+JuanMarualda-Dev es un developer que esta contribuyendo con el desarrollo del proyecto.
